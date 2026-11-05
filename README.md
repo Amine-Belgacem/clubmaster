@@ -1,16 +1,13 @@
 # Clubmaster
 
-Clubmaster is a FileMaker Pro project for managing club-related data and operations.
+A FileMaker database project for club administration. Open the database in FileMaker to explore its layouts, records, and workflow.
 
-## Requirements
+![Clubmaster interface](img/clubmaster.png)
 
-To work with this project, you need:
+## Get started
 
-- FileMaker Pro or Claris FileMaker
-- A local machine or shared environment for the database
+1. Install a compatible version of FileMaker Pro / Claris FileMaker.
+2. Make a working copy of [clubmaster.fmp12](clubmaster.fmp12).
+3. Open the copy in FileMaker and review the database structure before customizing it.
 
-## Getting started
-
-1. Open [clubmaster.fmp12](clubmaster.fmp12) in FileMaker Pro.
-2. Review the available layouts and database structure.
-3. Customize the project to fit your club’s workflow.
+The repository contains the FileMaker database and an interface image. This is a database project, not a standalone application installer.
